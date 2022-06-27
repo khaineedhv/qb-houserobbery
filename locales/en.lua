@@ -1,14 +1,14 @@
 local Translations = {
     error = {
-        ["missing_something"] = "It looks like you are missing something...",
-        ["not_enough_police"] = "Not enough Police..",
-        ["door_open"] = "The door is already open..",
-        ["process_cancelled"] = "Process Canceled..",
-        ["didnt_work"] = "It did not work..",
-        ["emty_box"] = "The Box Is Empty..",
+        ["missing_something"] = "Có vẻ như bạn đang thiếu một cái gì đó...",
+        ["not_enough_police"] = "Không đủ Cảnh sát..",
+        ["door_open"] = "Cửa đã mở..",
+        ["process_cancelled"] = "Quá trình bị hủy..",
+        ["didnt_work"] = "Nó không hoạt động..",
+        ["emty_box"] = "Hộp rỗng..",
     },
     success = {
-        ["worked"] = "It worked!",
+        ["worked"] = "Nó đã làm việc!!",
     }
 }
 Lang = Locale:new({
